@@ -4,13 +4,11 @@ Hi, this is a creative professional multi page Portfolio Website Template built 
 # Installation and Setup Instructions
   Step 1 : Clone this repository with the Command -
   
-            git clone https://github.com/killer-abhi/Portfolio.git
+            git clone https://github.com/shammir-ahmed/portfolio.git
   
-  Step 2 : cd Portfolio
+  Step 2 : npm install
   
-  Step 3 : npm install
-  
-  Step 4 : npm start
+  Step 3 : npm start
 
 # Usage Instructions
   
